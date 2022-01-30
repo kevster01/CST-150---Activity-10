@@ -1,0 +1,15 @@
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\Activity 10.exe
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\Activity 10.deps.json
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\Activity 10.runtimeconfig.json
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\Activity 10.dll
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\ref\Activity 10.dll
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\bin\Debug\net6.0\Activity 10.pdb
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.csproj.AssemblyReference.cache
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.AssemblyInfoInputs.cache
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.AssemblyInfo.cs
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.csproj.CoreCompileInputs.cache
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.dll
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\ref\Activity 10.dll
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.pdb
+C:\Users\kevre\OneDrive\Desktop\Cst 150-Activity 10\Activity 10\obj\Debug\net6.0\Activity 10.genruntimeconfig.cache
